@@ -111,7 +111,7 @@ Make sure the API URL in the JS matches your running por
 ![Swagger](ScreenShots/Swagger.png)
 
 ### Frontend
-![Frontend](screenshots/Frontend.png)
+![Frontend](screenshots/Fronrend.png)
 
 ### SQL
 ![SQL](screenshots/SQL.png)
