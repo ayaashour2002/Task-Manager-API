@@ -102,4 +102,20 @@ Password: Admin@123
 ## 🖥️ Frontend
 
 Open `Frontend/index.html` directly in your browser.
-Make sure the API URL in the JS matches your running port.
+Make sure the API URL in the JS matches your running por
+
+
+## 📸 Screenshots
+
+### Swagger UI
+![Swagger](ScreenShots/Swagger.png)
+
+### Frontend
+![Frontend](screenshots/Frontend.png)
+
+### SQL
+![SQL](screenshots/SQL.png)
+
+### Authorization
+![Authorization](screenshots/Authorized.png)
+
